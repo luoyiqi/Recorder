@@ -7,4 +7,6 @@ RealREC
 
 Screenshots:
 
-![alt tag](http://i.imgur.com/4W5fj0Il.png) ![alt tag](http://i.imgur.com/7ggcFQzl.png) ![alt tag](http://i.imgur.com/RqD8S3Il.png) ![alt tag](http://i.imgur.com/H6ScO21l.png)
+ <img alt="screenshot" src="screenshot.png?raw=true" width="250px" />
+ <img alt="screenshot" src="screenshot2.png?raw=true" width="250px" />
+ <img alt="screenshot" src="screenshot3.png?raw=true" width="250px" />
