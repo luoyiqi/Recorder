@@ -1,4 +1,4 @@
-RealREC
+Recorder
 =============
 
 <p>Now you can record your voice memos with this simple app implementing Material Design.</p>
